@@ -1,3 +1,3 @@
 # Exo Pomodoro
 
-Le site [ici](git@github.com:Simplejul/pomodoro.git)
+Le site [ici](https://simplejul.github.io/pomodoro/)
