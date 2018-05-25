@@ -1,0 +1,28 @@
+.countdown p{
+    font-size: 4em;
+    font-weight: bold;
+    color: rgb(189, 132, 79)
+}
+.chrono, .countdown{
+    display: flex;
+    justify-content: center;
+    margin: 7% 0;
+}
+    .btnchrono{
+        font-size: 1.5em;
+        border-radius: 20px;
+        background: rgb(77, 70, 70);
+        color: blanchedalmond;
+    }
+
+.task{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 28%;
+}
+    .btntask{
+        font-size: 1.5em;
+        width: 300px;
+        border-radius: 10px;
+    }
